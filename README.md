@@ -23,8 +23,8 @@
   </tr>
   <tr>
     <th ></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC">نظريه زبانهاوماشين ها 02-1115157</a></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+    <th ></th>
+    <th ></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
@@ -85,3 +85,8 @@
     - Project management of large software-intensive systems : controlling the software development process
         - **از صفحه :** [(شماره ردیف دانشجو - 1) * 5] + 3
         - **تا صفحه :**  [(شماره ردیف دانشجو) * 5] + 2
+> ## گروه ها
+3. G-SPM-03
+    1. [_SPM-10_سيدصادق رضوي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/10_%D8%B3%D9%8A%D8%AF%D8%B5%D8%A7%D8%AF%D9%82%20%D8%B1%D8%B6%D9%88%D9%8A)    
+    1. [_SPM-14_نادر سيفي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/14_%D9%86%D8%A7%D8%AF%D8%B1%20%D8%B3%D9%8A%D9%81%D9%8A)    
+    1. [_SPM-]()  
