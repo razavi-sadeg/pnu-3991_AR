@@ -7,7 +7,70 @@
     4. ارائه انگیزه نامه
     5. ایجاد ریپازیتوری PNU_3991_AR
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
-    7. مشارکت در گروهای درسی
+   7. مشارکت در گروهای درسی
+   
+<a name="Course-Table"></a>
+## روز و ساعت ارائه دروس
+
+<table style="width:100%">
+  <tr>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th ></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC">نظريه زبانهاوماشين ها 02-1115157</a></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th > </th>
+     <th ></th>
+     <th></th>
+     <th></th>
+    <th ></th>   
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement#TOC">مديريت پروژه هاي نرم افزاري</a></th>
+     <th ></th>
+     <th></th>
+    <th></th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
+   
 2. **ارائه فصل های کتاب پرسمن**  
     - **G-SPM-01** : CHAPTER 24 + CHAPTER 28 + CHAPTER 32
     - **G-SPM-02** : CHAPTER 25 + CHAPTER 29 + CHAPTER 24	
