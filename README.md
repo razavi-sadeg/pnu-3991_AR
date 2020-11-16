@@ -2,11 +2,11 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 ---------
 # سید صادق رضوی
-- [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
-- [Resume](https://saharzeinivand.github.io/Resume/) 
-- [SOP](https://saharzeinivand.github.io/SOP/)
-- [Certificates](https://saharzeinivand.github.io/Certificates/)
-- [GitHub](https://github.com/saharzeinivand)
+- [PNU_3991_AR](https://github.com/razavi-sadeg/pnu-3991_AR.git)
+- [Resume](https://https://github.com/razavi-sadeg/Resum.git/Resume/) 
+- [SOP](https://https://github.com/razavi-sadeg/SOP.git/SOP/)
+- [Certificates](https://github.com/razavi-sadeg/Certificate.git/Certificates/)
+- [GitHub](https://https://github.com/razavi-sadeg)
 
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
