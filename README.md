@@ -6,7 +6,7 @@
 - [Resume](https://github.com/razavi-sadeg/Resum.git) 
 - [SOP](https://github.com/razavi-sadeg/SOP.git)
 - [Certificates](https://github.com/razavi-sadeg/Certificate.git)
-- [GitHub](https://https://github.com/razavi-sadeg)
+- [GitHub](https://github.com/razavi-sadeg)
 - [patchwork](https://github.com/razavi-sadeg/patchwork.git)
 
 ## سیاهه ارزشیابی درس
