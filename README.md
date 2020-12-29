@@ -12,6 +12,8 @@
 -[powerpoint](https://github.com/razavi-sadeg/power-point-razavi)
 
 
+
+
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
