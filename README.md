@@ -8,6 +8,9 @@
 - [Certificates](https://github.com/razavi-sadeg/Certificate.git)
 - [GitHub](https://github.com/razavi-sadeg)
 - [patchwork](https://github.com/razavi-sadeg/patchwork.git)
+-[latex](https://github.com/razavi-sadeg/latex-razavi.git)
+-[powerpoint](https://github.com/razavi-sadeg/power-point-razavi)
+
 
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
