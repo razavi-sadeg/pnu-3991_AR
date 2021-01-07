@@ -10,8 +10,6 @@
 - [patchwork](https://github.com/razavi-sadeg/patchwork.git)
 -[latex](https://github.com/razavi-sadeg/latex-projeh)
 -[powerpoint](https://github.com/razavi-sadeg/power-point-razavi)
--[Arzyabi](https://github.com/razavi-sadeg/pnu-3991_AR.git)
-
 
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
